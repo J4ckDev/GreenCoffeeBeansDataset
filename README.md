@@ -16,7 +16,7 @@ In the development of our degree thesis titled "Estimación de la Calidad del Ca
 |Full black|100|`Negros.jpg`|
 |Parchment|90|`Pergamino.jpg`|
 |Broken, chipped and cut|36|`PMordidoCortado.jpg`|
-|Good|255|`Normales.jpg`|
+|Good|195|`Normales.jpg`|
 
 # Conjunto de imágenes de granos de café verde
 
@@ -36,4 +36,4 @@ En el desarrollo de nuestra tesis de pregrado titulada _"Estimación de la Calid
 |Negros|100|`Negros.jpg`|
 |Pergamino|90|`Pergamino.jpg`|
 |Partidos, mordidos y cortados|36|`PMordidoCortado.jpg`|
-|Buenos|255|`Normales.jpg`|
+|Buenos|195|`Normales.jpg`|
